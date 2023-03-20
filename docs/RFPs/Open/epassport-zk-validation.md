@@ -1,4 +1,5 @@
-# e-Passport ZK Validation
+# e-Passport ZK Validation  [ON HOLD]
+
 
 * **Status:** Open
 * **Proposer:** [burges](https://github.com/burges), [FlorianFranzen](https://github.com/FlorianFranzen)
